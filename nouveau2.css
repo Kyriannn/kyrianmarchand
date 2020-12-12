@@ -1,0 +1,264 @@
+
+body {
+  font-family: 'robotolight';
+
+}
+
+h1 {
+  font-family: 'made_tommymedium';
+  text-align: center;
+
+}
+
+nav {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	padding: 1px 0px;
+	margin: 0px;
+  border: 0px;
+
+}
+
+.ligne {
+  width: 100%;
+  margin-left:auto;
+  margin-right: auto;
+
+}
+
+
+#middle {
+  width: 60%;
+  margin-left:auto;
+  margin-right: auto;
+
+}
+
+.par {
+  text-align: center;
+
+}
+
+
+#p1 {
+  text-align: center;
+
+}
+
+#p2 {
+  text-align: center;
+
+}
+
+
+#menu li {
+	display: inline;
+  padding: 20px 30px;
+  color: #FFC300;
+  font-size: 25px;
+
+}
+
+ul #menu {
+  display: flex;
+  justify-content : space-between;
+
+}
+
+.couleur {
+  color:#000000;
+  font-family: 'willgraceregular';
+
+}
+
+.couleur:hover {
+  color: #FFC300;
+
+}
+
+hr {
+  border-top: 5px solid #FFC300;
+
+}
+
+.border1 {
+	border: 3px solid #FF9200;
+	font-size: 14pt;
+
+}
+
+
+footer {
+  padding: 3px;
+  background-color: #FFC300;
+  color: black;
+  font-size: 12pt;
+
+}
+
+
+#otherpage {
+  border: none; 
+  outline: none;
+  background-color: #FF9200;
+
+}
+
+#defaultpage {
+  border: none; 
+  outline: none;
+  background-color: #FF9200;
+
+}
+
+.principal {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#otherpage:hover {
+  background-color: #FFC300;
+
+}
+
+#defaultpage:hover {
+  background-color: #FFC300;
+
+}
+
+#myBtn {
+  position: fixed; 
+  bottom: 50px; 
+  right: 30px; 
+  z-index: 99; 
+  border: none; 
+  outline: none; 
+  background-color: #FFC300; 
+  color: black; 
+  padding: 15px; 
+  border-radius: 10px;
+  font-size: 18px; 
+
+}
+
+#myBtn:hover {
+  background-color: #FF9200;
+
+}
+
+.box {
+  text-align: center;
+
+}
+
+.espace {
+	clear: both;
+  visibility: hidden;
+
+}
+
+ul #a {
+  list-style-type: circle;
+}
+
+h2 {
+  font-size: 20px;
+  margin: 0 0 6px 0;
+  position: relative;
+  color: #FF9200;
+
+}
+
+dt {
+  font-style: italic;color: #FFC300;
+}
+
+dl {
+  display: inline-block;
+
+}
+
+dd {
+  width: 600px; 
+  float: right;
+
+}
+
+.a {
+  list-style-type: circle;
+
+}
+
+.E-mail {
+  width: 300px;
+  height: 20px
+}
+
+@font-face {
+  font-family: 'made_tommymedium';
+  src: url('made_tommy_medium_personal_use-webfont.woff2') format('woff2'),
+  url('made_tommy_medium_personal_use-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+@font-face {
+  font-family: 'subwayregular';
+  src: url('subway-black-webfont.woff2') format('woff2'),
+  url('subway-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'willgraceregular';
+  src: url('willg___-webfont.woff2') format('woff2'),
+  url('willg___-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'winter_candleregular';
+  src: url('winter_candle-webfont.woff2') format('woff2'),
+  url('winter_candle-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'robotolight';
+  src: url('roboto-light.woff2') format('woff2'),
+  url('roboto-light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.Kyrian {
+  font-family: 'winter_candleregular';
+  color: #FF9200;
+
+}
+
+.espace {
+  width: 100%;
+  margin-left:auto;
+  margin-right: auto;
+
+}
+
+.logo1 {
+  border: 5px solid #FFC300;
+  vertical-align:middle;
+
+}
+
